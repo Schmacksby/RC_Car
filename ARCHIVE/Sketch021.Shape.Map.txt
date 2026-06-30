@@ -1,0 +1,109 @@
+BeginElementMap v1
+98 PostfixCount 3
+Edge
+Vertex
+;SKT
+
+MapCount 2
+
+ElementMap 1 99 2
+
+Edge
+
+ChildCount 0
+
+NameCount 15
+0
+;g70.3 0
+;g71.3 0
+;g72.3 0
+;g73.3 0
+;g74.3 0
+;g75.3 0
+;g76.3 0
+;g77.3 0
+;g78.3 0
+;g79.3 0
+;g80.3 0
+;g81.3 0
+;g82.3 0
+;g83.3 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 15
+0
+;g70v1.3 ;g83v2.3 0
+;g70v2.3 ;g71v1.3 0
+;g71v2.3 ;g72v1.3 0
+;g72v2.3 ;g73v1.3 0
+;g73v2.3 ;g74v1.3 0
+;g74v2.3 ;g75v1.3 0
+;g75v2.3 ;g76v1.3 0
+;g76v2.3 ;g77v1.3 0
+;g77v2.3 ;g78v1.3 0
+;g78v2.3 ;g79v1.3 0
+;g79v2.3 ;g80v1.3 0
+;g80v2.3 ;g81v1.3 0
+;g81v2.3 ;g82v1.3 0
+;g82v2.3 ;g83v1.3 0
+
+EndMap
+
+ElementMap 2 98 2
+
+Edge
+
+ChildCount 1
+1 0 14 0 1 ;:H,E 0
+
+NameCount 19
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+;g84.3 0
+;g85.3 0
+;g86.3 0
+;g87.3 0
+
+Vertex
+
+ChildCount 1
+1 0 14 0 1 ;:H,V 0
+
+NameCount 19
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+;g84v1.3 0
+;g84v2.3 0
+;g85v2.3 0
+;g86v2.3 0
+
+EndMap

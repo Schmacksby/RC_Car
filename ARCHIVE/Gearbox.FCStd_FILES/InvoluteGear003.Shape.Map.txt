@@ -1,0 +1,2537 @@
+BeginElementMap v1
+23 PostfixCount 681
+Edge
+Face
+Vertex
+;:Cb4;:H:5,E;SHL
+;:C10;:H:5,E;SHL
+;:C11;:H:5,E;SHL
+;:C12;:H:5,E;SHL
+;:C13;:H:5,E;SHL
+;:C14;:H:5,E;SHL
+;:C15;:H:5,E;SHL
+;:C16;:H:5,E;SHL
+;:C17;:H:5,E;SHL
+;:C18;:H:5,E;SHL
+;:C19;:H:5,E;SHL
+;:C1;:H:4,E;SHL
+;:C1a;:H:5,E;SHL
+;:C1b;:H:5,E;SHL
+;:C1c;:H:5,E;SHL
+;:C1d;:H:5,E;SHL
+;:C1e;:H:5,E;SHL
+;:C1f;:H:5,E;SHL
+;:C20;:H:5,E;SHL
+;:C21;:H:5,E;SHL
+;:C22;:H:5,E;SHL
+;:C23;:H:5,E;SHL
+;:C24;:H:5,E;SHL
+;:C25;:H:5,E;SHL
+;:C26;:H:5,E;SHL
+;:C27;:H:5,E;SHL
+;:C28;:H:5,E;SHL
+;:C29;:H:5,E;SHL
+;:C2;:H:4,E;SHL
+;:C2a;:H:5,E;SHL
+;:C2b;:H:5,E;SHL
+;:C2c;:H:5,E;SHL
+;:C2d;:H:5,E;SHL
+;:C2e;:H:5,E;SHL
+;:C2f;:H:5,E;SHL
+;:C30;:H:5,E;SHL
+;:C31;:H:5,E;SHL
+;:C32;:H:5,E;SHL
+;:C33;:H:5,E;SHL
+;:C34;:H:5,E;SHL
+;:C35;:H:5,E;SHL
+;:C36;:H:5,E;SHL
+;:C37;:H:5,E;SHL
+;:C38;:H:5,E;SHL
+;:C39;:H:5,E;SHL
+;:C3;:H:4,E;SHL
+;:C3a;:H:5,E;SHL
+;:C3b;:H:5,E;SHL
+;:C3c;:H:5,E;SHL
+;:C3d;:H:5,E;SHL
+;:C3e;:H:5,E;SHL
+;:C3f;:H:5,E;SHL
+;:C40;:H:5,E;SHL
+;:C41;:H:5,E;SHL
+;:C42;:H:5,E;SHL
+;:C43;:H:5,E;SHL
+;:C44;:H:5,E;SHL
+;:C45;:H:5,E;SHL
+;:C46;:H:5,E;SHL
+;:C47;:H:5,E;SHL
+;:C48;:H:5,E;SHL
+;:C49;:H:5,E;SHL
+;:C4;:H:4,E;SHL
+;:C4a;:H:5,E;SHL
+;:C4b;:H:5,E;SHL
+;:C4c;:H:5,E;SHL
+;:C4d;:H:5,E;SHL
+;:C4e;:H:5,E;SHL
+;:C4f;:H:5,E;SHL
+;:C50;:H:5,E;SHL
+;:C51;:H:5,E;SHL
+;:C52;:H:5,E;SHL
+;:C53;:H:5,E;SHL
+;:C54;:H:5,E;SHL
+;:C55;:H:5,E;SHL
+;:C56;:H:5,E;SHL
+;:C57;:H:5,E;SHL
+;:C58;:H:5,E;SHL
+;:C59;:H:5,E;SHL
+;:C5;:H:4,E;SHL
+;:C5a;:H:5,E;SHL
+;:C5b;:H:5,E;SHL
+;:C5c;:H:5,E;SHL
+;:C5d;:H:5,E;SHL
+;:C5e;:H:5,E;SHL
+;:C5f;:H:5,E;SHL
+;:C60;:H:5,E;SHL
+;:C61;:H:5,E;SHL
+;:C62;:H:5,E;SHL
+;:C63;:H:5,E;SHL
+;:C64;:H:5,E;SHL
+;:C65;:H:5,E;SHL
+;:C66;:H:5,E;SHL
+;:C67;:H:5,E;SHL
+;:C68;:H:5,E;SHL
+;:C69;:H:5,E;SHL
+;:C6;:H:4,E;SHL
+;:C6a;:H:5,E;SHL
+;:C6b;:H:5,E;SHL
+;:C6c;:H:5,E;SHL
+;:C6d;:H:5,E;SHL
+;:C6e;:H:5,E;SHL
+;:C6f;:H:5,E;SHL
+;:C70;:H:5,E;SHL
+;:C71;:H:5,E;SHL
+;:C72;:H:5,E;SHL
+;:C73;:H:5,E;SHL
+;:C74;:H:5,E;SHL
+;:C75;:H:5,E;SHL
+;:C76;:H:5,E;SHL
+;:C77;:H:5,E;SHL
+;:C78;:H:5,E;SHL
+;:C79;:H:5,E;SHL
+;:C7;:H:4,E;SHL
+;:C7a;:H:5,E;SHL
+;:C7b;:H:5,E;SHL
+;:C7c;:H:5,E;SHL
+;:C7d;:H:5,E;SHL
+;:C7e;:H:5,E;SHL
+;:C7f;:H:5,E;SHL
+;:C80;:H:5,E;SHL
+;:C81;:H:5,E;SHL
+;:C82;:H:5,E;SHL
+;:C83;:H:5,E;SHL
+;:C84;:H:5,E;SHL
+;:C85;:H:5,E;SHL
+;:C86;:H:5,E;SHL
+;:C87;:H:5,E;SHL
+;:C88;:H:5,E;SHL
+;:C89;:H:5,E;SHL
+;:C8;:H:4,E;SHL
+;:C8a;:H:5,E;SHL
+;:C8b;:H:5,E;SHL
+;:C8c;:H:5,E;SHL
+;:C8d;:H:5,E;SHL
+;:C8e;:H:5,E;SHL
+;:C8f;:H:5,E;SHL
+;:C90;:H:5,E;SHL
+;:C91;:H:5,E;SHL
+;:C92;:H:5,E;SHL
+;:C93;:H:5,E;SHL
+;:C94;:H:5,E;SHL
+;:C95;:H:5,E;SHL
+;:C96;:H:5,E;SHL
+;:C97;:H:5,E;SHL
+;:C98;:H:5,E;SHL
+;:C99;:H:5,E;SHL
+;:C9;:H:4,E;SHL
+;:C9a;:H:5,E;SHL
+;:C9b;:H:5,E;SHL
+;:C9c;:H:5,E;SHL
+;:C9d;:H:5,E;SHL
+;:C9e;:H:5,E;SHL
+;:C9f;:H:5,E;SHL
+;:Ca0;:H:5,E;SHL
+;:Ca1;:H:5,E;SHL
+;:Ca2;:H:5,E;SHL
+;:Ca3;:H:5,E;SHL
+;:Ca4;:H:5,E;SHL
+;:Ca5;:H:5,E;SHL
+;:Ca6;:H:5,E;SHL
+;:Ca7;:H:5,E;SHL
+;:Ca8;:H:5,E;SHL
+;:Ca9;:H:5,E;SHL
+;:Ca;:H:4,E;SHL
+;:Caa;:H:5,E;SHL
+;:Cab;:H:5,E;SHL
+;:Cac;:H:5,E;SHL
+;:Cad;:H:5,E;SHL
+;:Cae;:H:5,E;SHL
+;:Caf;:H:5,E;SHL
+;:Cb0;:H:5,E;SHL
+;:Cb1;:H:5,E;SHL
+;:Cb2;:H:5,E;SHL
+;:Cb3;:H:5,E;SHL
+;:Cb;:H:4,E;SHL
+;:Cc;:H:4,E;SHL
+;:Cd;:H:4,E;SHL
+;:Ce;:H:4,E;SHL
+;:Cf;:H:4,E;SHL
+;:H,E;SHL
+;:C10;:H:5,F;SHL
+;:C11;:H:5,F;SHL
+;:C12;:H:5,F;SHL
+;:C13;:H:5,F;SHL
+;:C14;:H:5,F;SHL
+;:C15;:H:5,F;SHL
+;:C16;:H:5,F;SHL
+;:C17;:H:5,F;SHL
+;:C18;:H:5,F;SHL
+;:C19;:H:5,F;SHL
+;:C1;:H:4,F;SHL
+;:C1a;:H:5,F;SHL
+;:C1b;:H:5,F;SHL
+;:C1c;:H:5,F;SHL
+;:C1d;:H:5,F;SHL
+;:C1e;:H:5,F;SHL
+;:C1f;:H:5,F;SHL
+;:C20;:H:5,F;SHL
+;:C21;:H:5,F;SHL
+;:C22;:H:5,F;SHL
+;:C23;:H:5,F;SHL
+;:C24;:H:5,F;SHL
+;:C25;:H:5,F;SHL
+;:C26;:H:5,F;SHL
+;:C27;:H:5,F;SHL
+;:C28;:H:5,F;SHL
+;:C29;:H:5,F;SHL
+;:C2;:H:4,F;SHL
+;:C2a;:H:5,F;SHL
+;:C2b;:H:5,F;SHL
+;:C2c;:H:5,F;SHL
+;:C2d;:H:5,F;SHL
+;:C2e;:H:5,F;SHL
+;:C2f;:H:5,F;SHL
+;:C30;:H:5,F;SHL
+;:C31;:H:5,F;SHL
+;:C32;:H:5,F;SHL
+;:C33;:H:5,F;SHL
+;:C34;:H:5,F;SHL
+;:C35;:H:5,F;SHL
+;:C36;:H:5,F;SHL
+;:C37;:H:5,F;SHL
+;:C38;:H:5,F;SHL
+;:C39;:H:5,F;SHL
+;:C3;:H:4,F;SHL
+;:C3a;:H:5,F;SHL
+;:C3b;:H:5,F;SHL
+;:C3c;:H:5,F;SHL
+;:C3d;:H:5,F;SHL
+;:C3e;:H:5,F;SHL
+;:C3f;:H:5,F;SHL
+;:C40;:H:5,F;SHL
+;:C41;:H:5,F;SHL
+;:C42;:H:5,F;SHL
+;:C43;:H:5,F;SHL
+;:C44;:H:5,F;SHL
+;:C45;:H:5,F;SHL
+;:C46;:H:5,F;SHL
+;:C47;:H:5,F;SHL
+;:C48;:H:5,F;SHL
+;:C49;:H:5,F;SHL
+;:C4;:H:4,F;SHL
+;:C4a;:H:5,F;SHL
+;:C4b;:H:5,F;SHL
+;:C4c;:H:5,F;SHL
+;:C4d;:H:5,F;SHL
+;:C4e;:H:5,F;SHL
+;:C4f;:H:5,F;SHL
+;:C50;:H:5,F;SHL
+;:C51;:H:5,F;SHL
+;:C52;:H:5,F;SHL
+;:C53;:H:5,F;SHL
+;:C54;:H:5,F;SHL
+;:C55;:H:5,F;SHL
+;:C56;:H:5,F;SHL
+;:C57;:H:5,F;SHL
+;:C58;:H:5,F;SHL
+;:C59;:H:5,F;SHL
+;:C5;:H:4,F;SHL
+;:C5a;:H:5,F;SHL
+;:C5b;:H:5,F;SHL
+;:C5c;:H:5,F;SHL
+;:C5d;:H:5,F;SHL
+;:C5e;:H:5,F;SHL
+;:C5f;:H:5,F;SHL
+;:C60;:H:5,F;SHL
+;:C61;:H:5,F;SHL
+;:C62;:H:5,F;SHL
+;:C63;:H:5,F;SHL
+;:C64;:H:5,F;SHL
+;:C65;:H:5,F;SHL
+;:C66;:H:5,F;SHL
+;:C67;:H:5,F;SHL
+;:C68;:H:5,F;SHL
+;:C69;:H:5,F;SHL
+;:C6;:H:4,F;SHL
+;:C6a;:H:5,F;SHL
+;:C6b;:H:5,F;SHL
+;:C6c;:H:5,F;SHL
+;:C6d;:H:5,F;SHL
+;:C6e;:H:5,F;SHL
+;:C6f;:H:5,F;SHL
+;:C70;:H:5,F;SHL
+;:C71;:H:5,F;SHL
+;:C72;:H:5,F;SHL
+;:C73;:H:5,F;SHL
+;:C74;:H:5,F;SHL
+;:C75;:H:5,F;SHL
+;:C76;:H:5,F;SHL
+;:C77;:H:5,F;SHL
+;:C78;:H:5,F;SHL
+;:C79;:H:5,F;SHL
+;:C7;:H:4,F;SHL
+;:C7a;:H:5,F;SHL
+;:C7b;:H:5,F;SHL
+;:C7c;:H:5,F;SHL
+;:C7d;:H:5,F;SHL
+;:C7e;:H:5,F;SHL
+;:C7f;:H:5,F;SHL
+;:C80;:H:5,F;SHL
+;:C81;:H:5,F;SHL
+;:C82;:H:5,F;SHL
+;:C83;:H:5,F;SHL
+;:C84;:H:5,F;SHL
+;:C85;:H:5,F;SHL
+;:C86;:H:5,F;SHL
+;:C87;:H:5,F;SHL
+;:C88;:H:5,F;SHL
+;:C89;:H:5,F;SHL
+;:C8;:H:4,F;SHL
+;:C8a;:H:5,F;SHL
+;:C8b;:H:5,F;SHL
+;:C8c;:H:5,F;SHL
+;:C8d;:H:5,F;SHL
+;:C8e;:H:5,F;SHL
+;:C8f;:H:5,F;SHL
+;:C90;:H:5,F;SHL
+;:C91;:H:5,F;SHL
+;:C92;:H:5,F;SHL
+;:C93;:H:5,F;SHL
+;:C94;:H:5,F;SHL
+;:C95;:H:5,F;SHL
+;:C96;:H:5,F;SHL
+;:C97;:H:5,F;SHL
+;:C98;:H:5,F;SHL
+;:C99;:H:5,F;SHL
+;:C9;:H:4,F;SHL
+;:C9a;:H:5,F;SHL
+;:C9b;:H:5,F;SHL
+;:C9c;:H:5,F;SHL
+;:C9d;:H:5,F;SHL
+;:C9e;:H:5,F;SHL
+;:C9f;:H:5,F;SHL
+;:Ca0;:H:5,F;SHL
+;:Ca1;:H:5,F;SHL
+;:Ca2;:H:5,F;SHL
+;:Ca3;:H:5,F;SHL
+;:Ca4;:H:5,F;SHL
+;:Ca5;:H:5,F;SHL
+;:Ca6;:H:5,F;SHL
+;:Ca7;:H:5,F;SHL
+;:Ca8;:H:5,F;SHL
+;:Ca9;:H:5,F;SHL
+;:Ca;:H:4,F;SHL
+;:Caa;:H:5,F;SHL
+;:Cab;:H:5,F;SHL
+;:Cac;:H:5,F;SHL
+;:Cad;:H:5,F;SHL
+;:Cae;:H:5,F;SHL
+;:Caf;:H:5,F;SHL
+;:Cb0;:H:5,F;SHL
+;:Cb1;:H:5,F;SHL
+;:Cb2;:H:5,F;SHL
+;:Cb3;:H:5,F;SHL
+;:Cb4;:H:5,F;SHL
+;:Cb5;:H:5,F;SHL
+;:Cb;:H:4,F;SHL
+;:Cc;:H:4,F;SHL
+;:Cd;:H:4,F;SHL
+;:Ce;:H:4,F;SHL
+;:Cf;:H:4,F;SHL
+;:H,F;SHL
+;:C10;:H:5,V;SHL
+;:C11;:H:5,V;SHL
+;:C12;:H:5,V;SHL
+;:C13;:H:5,V;SHL
+;:C14;:H:5,V;SHL
+;:C15;:H:5,V;SHL
+;:C16;:H:5,V;SHL
+;:C17;:H:5,V;SHL
+;:C18;:H:5,V;SHL
+;:C19;:H:5,V;SHL
+;:C1;:H:4,V;SHL
+;:C1a;:H:5,V;SHL
+;:C1b;:H:5,V;SHL
+;:C1c;:H:5,V;SHL
+;:C1d;:H:5,V;SHL
+;:C1e;:H:5,V;SHL
+;:C1f;:H:5,V;SHL
+;:C20;:H:5,V;SHL
+;:C21;:H:5,V;SHL
+;:C22;:H:5,V;SHL
+;:C23;:H:5,V;SHL
+;:C24;:H:5,V;SHL
+;:C25;:H:5,V;SHL
+;:C26;:H:5,V;SHL
+;:C27;:H:5,V;SHL
+;:C28;:H:5,V;SHL
+;:C29;:H:5,V;SHL
+;:C2;:H:4,V;SHL
+;:C2a;:H:5,V;SHL
+;:C2b;:H:5,V;SHL
+;:C2c;:H:5,V;SHL
+;:C2d;:H:5,V;SHL
+;:C2e;:H:5,V;SHL
+;:C2f;:H:5,V;SHL
+;:C30;:H:5,V;SHL
+;:C31;:H:5,V;SHL
+;:C32;:H:5,V;SHL
+;:C33;:H:5,V;SHL
+;:C34;:H:5,V;SHL
+;:C35;:H:5,V;SHL
+;:C36;:H:5,V;SHL
+;:C37;:H:5,V;SHL
+;:C38;:H:5,V;SHL
+;:C39;:H:5,V;SHL
+;:C3;:H:4,V;SHL
+;:C3a;:H:5,V;SHL
+;:C3b;:H:5,V;SHL
+;:C3c;:H:5,V;SHL
+;:C3d;:H:5,V;SHL
+;:C3e;:H:5,V;SHL
+;:C3f;:H:5,V;SHL
+;:C40;:H:5,V;SHL
+;:C41;:H:5,V;SHL
+;:C42;:H:5,V;SHL
+;:C43;:H:5,V;SHL
+;:C44;:H:5,V;SHL
+;:C45;:H:5,V;SHL
+;:C46;:H:5,V;SHL
+;:C47;:H:5,V;SHL
+;:C48;:H:5,V;SHL
+;:C49;:H:5,V;SHL
+;:C4;:H:4,V;SHL
+;:C4a;:H:5,V;SHL
+;:C4b;:H:5,V;SHL
+;:C4c;:H:5,V;SHL
+;:C4d;:H:5,V;SHL
+;:C4e;:H:5,V;SHL
+;:C4f;:H:5,V;SHL
+;:C50;:H:5,V;SHL
+;:C51;:H:5,V;SHL
+;:C52;:H:5,V;SHL
+;:C53;:H:5,V;SHL
+;:C54;:H:5,V;SHL
+;:C55;:H:5,V;SHL
+;:C56;:H:5,V;SHL
+;:C57;:H:5,V;SHL
+;:C58;:H:5,V;SHL
+;:C59;:H:5,V;SHL
+;:C5;:H:4,V;SHL
+;:C5a;:H:5,V;SHL
+;:C5b;:H:5,V;SHL
+;:C5c;:H:5,V;SHL
+;:C5d;:H:5,V;SHL
+;:C5e;:H:5,V;SHL
+;:C5f;:H:5,V;SHL
+;:C60;:H:5,V;SHL
+;:C61;:H:5,V;SHL
+;:C62;:H:5,V;SHL
+;:C63;:H:5,V;SHL
+;:C64;:H:5,V;SHL
+;:C65;:H:5,V;SHL
+;:C66;:H:5,V;SHL
+;:C67;:H:5,V;SHL
+;:C68;:H:5,V;SHL
+;:C69;:H:5,V;SHL
+;:C6;:H:4,V;SHL
+;:C6a;:H:5,V;SHL
+;:C6b;:H:5,V;SHL
+;:C6c;:H:5,V;SHL
+;:C6d;:H:5,V;SHL
+;:C6e;:H:5,V;SHL
+;:C6f;:H:5,V;SHL
+;:C70;:H:5,V;SHL
+;:C71;:H:5,V;SHL
+;:C72;:H:5,V;SHL
+;:C73;:H:5,V;SHL
+;:C74;:H:5,V;SHL
+;:C75;:H:5,V;SHL
+;:C76;:H:5,V;SHL
+;:C77;:H:5,V;SHL
+;:C78;:H:5,V;SHL
+;:C79;:H:5,V;SHL
+;:C7;:H:4,V;SHL
+;:C7a;:H:5,V;SHL
+;:C7b;:H:5,V;SHL
+;:C7c;:H:5,V;SHL
+;:C7d;:H:5,V;SHL
+;:C7e;:H:5,V;SHL
+;:C7f;:H:5,V;SHL
+;:C80;:H:5,V;SHL
+;:C81;:H:5,V;SHL
+;:C82;:H:5,V;SHL
+;:C83;:H:5,V;SHL
+;:C84;:H:5,V;SHL
+;:C85;:H:5,V;SHL
+;:C86;:H:5,V;SHL
+;:C8;:H:4,V;SHL
+;:C9;:H:4,V;SHL
+;:Ca;:H:4,V;SHL
+;:Cb;:H:4,V;SHL
+;:Cc;:H:4,V;SHL
+;:Cd;:H:4,V;SHL
+;:Ce;:H:4,V;SHL
+;:Cf;:H:4,V;SHL
+;:H,V;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D10fc;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D110;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D110b;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D11ab;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D11be;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D11e8;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D12bb;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D12f1;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D12f4;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D12ff;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D131;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D133;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D13b6;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D13e7;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D13f6;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D149c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D14bb;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D14bc;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D14cd;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D14d0;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1501;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D152c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D156c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D158b;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1598;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D15a1;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D15a2;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D15e7;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1600;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1681;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1688;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1696;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D170;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D17d7;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D180;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1821;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D18df;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D196a;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D198a;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D198b;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D19cc;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1a03;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1a0f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1a13;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1a24;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1a7b;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1aa0;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1ad9;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1aee;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1b17;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1b38;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1b44;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1b8f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1bbb;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1bbf;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1c0d;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1c7c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1cb8;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1cee;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1d58;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1d60;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1d8c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1db2;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1dd4;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1dd;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1dfc;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1ec3;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1ef9;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1f08;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1f17;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1f1e;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1f70;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D1f9c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2018;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D203c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D205a;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D205f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D207b;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D20a6;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D20d9;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D20ea;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2119;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2129;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2131;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2154;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D21d;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2220;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2252;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2265;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2285;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D22f9;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2302;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D231;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D232a;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2339;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2387;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2388;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D23b6;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D23c0;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D244d;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2463;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2464;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2468;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2471;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D247b;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D248a;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2531;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D256f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2578;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D258e;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D25d9;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D25f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D267;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D267e;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D26c3;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D26c7;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2c3;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2ee;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D2fc;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D33f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D3a6;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D3ae;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D3d;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D3f4;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D455;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D459;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D45a;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D577;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D5c0;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D62e;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D65;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D66e;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D6b3;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D6f1;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D7b5;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D7c8;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D7df;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D7f0;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D80f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D83e;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D862;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D87e;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D88f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D8d9;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D904;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D908;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D911;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D938;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D992;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;D9d0;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Da15;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Da8c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Da91;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dac7;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Db10;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Db56;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Db62;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Db72;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Db7;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Db9c;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dba5;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dbb9;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dbc4;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dbe1;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dc18;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dc33;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dc53;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dc65;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Dcb7;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Ddf0;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;De13;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;De17;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;De26;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;De2f;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Def8;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Df04;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Df49;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Df79;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;Df82;SHL
+;:M;MIR;:L(Vertex2;:M;MIR);MIR;:L(Vertex1;:M;MIR;:L(Vertex3;:M;MIR);MIR|Vertex2;:M;MIR;:L(Vertex4;:M;MIR);MIR|Vertex3;:M;MIR;:L(Vertex4;:M;MIR);MIR);MIR;SHL
+
+MapCount 2
+
+ElementMap 1 24 3
+
+Edge
+
+ChildCount 0
+
+NameCount 901
+0
+:1.1.b8 0
+:1.2.b8 0
+:1.3.b8 0
+:1.4.b8 0
+:1.1.f 0
+:1.2.f 0
+:1.3.f 0
+:1.4.f 0
+:1.1.20 0
+:1.2.20 0
+:1.3.20 0
+:1.4.20 0
+:1.1.31 0
+:1.2.31 0
+:1.3.31 0
+:1.4.31 0
+:1.1.42 0
+:1.2.42 0
+:1.3.42 0
+:1.4.42 0
+:1.1.53 0
+:1.2.53 0
+:1.3.53 0
+:1.4.53 0
+:1.1.64 0
+:1.2.64 0
+:1.3.64 0
+:1.4.64 0
+:1.1.75 0
+:1.2.75 0
+:1.3.75 0
+:1.4.75 0
+:1.1.86 0
+:1.2.86 0
+:1.3.86 0
+:1.4.86 0
+:1.1.97 0
+:1.2.97 0
+:1.3.97 0
+:1.4.97 0
+:1.1.a8 0
+:1.2.a8 0
+:1.3.a8 0
+:1.4.a8 0
+:1.1.b3 0
+:1.2.b3 0
+:1.3.b3 0
+:1.4.b3 0
+:1.1.b4 0
+:1.2.b4 0
+:1.3.b4 0
+:1.4.b4 0
+:1.1.b5 0
+:1.2.b5 0
+:1.3.b5 0
+:1.4.b5 0
+:1.1.b6 0
+:1.2.b6 0
+:1.3.b6 0
+:1.4.b6 0
+:1.1.b7 0
+:1.2.b7 0
+:1.3.b7 0
+:1.4.b7 0
+:1.1.5 0
+:1.2.5 0
+:1.3.5 0
+:1.4.5 0
+:1.1.6 0
+:1.2.6 0
+:1.3.6 0
+:1.4.6 0
+:1.1.7 0
+:1.2.7 0
+:1.3.7 0
+:1.4.7 0
+:1.1.8 0
+:1.2.8 0
+:1.3.8 0
+:1.4.8 0
+:1.1.9 0
+:1.2.9 0
+:1.3.9 0
+:1.4.9 0
+:1.1.a 0
+:1.2.a 0
+:1.3.a 0
+:1.4.a 0
+:1.1.b 0
+:1.2.b 0
+:1.3.b 0
+:1.4.b 0
+:1.1.c 0
+:1.2.c 0
+:1.3.c 0
+:1.4.c 0
+:1.1.d 0
+:1.2.d 0
+:1.3.d 0
+:1.4.d 0
+:1.1.e 0
+:1.2.e 0
+:1.3.e 0
+:1.4.e 0
+:1.1.10 0
+:1.2.10 0
+:1.3.10 0
+:1.4.10 0
+:1.1.11 0
+:1.2.11 0
+:1.3.11 0
+:1.4.11 0
+:1.1.12 0
+:1.2.12 0
+:1.3.12 0
+:1.4.12 0
+:1.1.13 0
+:1.2.13 0
+:1.3.13 0
+:1.4.13 0
+:1.1.14 0
+:1.2.14 0
+:1.3.14 0
+:1.4.14 0
+:1.1.15 0
+:1.2.15 0
+:1.3.15 0
+:1.4.15 0
+:1.1.16 0
+:1.2.16 0
+:1.3.16 0
+:1.4.16 0
+:1.1.17 0
+:1.2.17 0
+:1.3.17 0
+:1.4.17 0
+:1.1.18 0
+:1.2.18 0
+:1.3.18 0
+:1.4.18 0
+:1.1.19 0
+:1.2.19 0
+:1.3.19 0
+:1.4.19 0
+:1.1.1a 0
+:1.2.1a 0
+:1.3.1a 0
+:1.4.1a 0
+:1.1.1b 0
+:1.2.1b 0
+:1.3.1b 0
+:1.4.1b 0
+:1.1.1c 0
+:1.2.1c 0
+:1.3.1c 0
+:1.4.1c 0
+:1.1.1d 0
+:1.2.1d 0
+:1.3.1d 0
+:1.4.1d 0
+:1.1.1e 0
+:1.2.1e 0
+:1.3.1e 0
+:1.4.1e 0
+:1.1.1f 0
+:1.2.1f 0
+:1.3.1f 0
+:1.4.1f 0
+:1.1.21 0
+:1.2.21 0
+:1.3.21 0
+:1.4.21 0
+:1.1.22 0
+:1.2.22 0
+:1.3.22 0
+:1.4.22 0
+:1.1.23 0
+:1.2.23 0
+:1.3.23 0
+:1.4.23 0
+:1.1.24 0
+:1.2.24 0
+:1.3.24 0
+:1.4.24 0
+:1.1.25 0
+:1.2.25 0
+:1.3.25 0
+:1.4.25 0
+:1.1.26 0
+:1.2.26 0
+:1.3.26 0
+:1.4.26 0
+:1.1.27 0
+:1.2.27 0
+:1.3.27 0
+:1.4.27 0
+:1.1.28 0
+:1.2.28 0
+:1.3.28 0
+:1.4.28 0
+:1.1.29 0
+:1.2.29 0
+:1.3.29 0
+:1.4.29 0
+:1.1.2a 0
+:1.2.2a 0
+:1.3.2a 0
+:1.4.2a 0
+:1.1.2b 0
+:1.2.2b 0
+:1.3.2b 0
+:1.4.2b 0
+:1.1.2c 0
+:1.2.2c 0
+:1.3.2c 0
+:1.4.2c 0
+:1.1.2d 0
+:1.2.2d 0
+:1.3.2d 0
+:1.4.2d 0
+:1.1.2e 0
+:1.2.2e 0
+:1.3.2e 0
+:1.4.2e 0
+:1.1.2f 0
+:1.2.2f 0
+:1.3.2f 0
+:1.4.2f 0
+:1.1.30 0
+:1.2.30 0
+:1.3.30 0
+:1.4.30 0
+:1.1.32 0
+:1.2.32 0
+:1.3.32 0
+:1.4.32 0
+:1.1.33 0
+:1.2.33 0
+:1.3.33 0
+:1.4.33 0
+:1.1.34 0
+:1.2.34 0
+:1.3.34 0
+:1.4.34 0
+:1.1.35 0
+:1.2.35 0
+:1.3.35 0
+:1.4.35 0
+:1.1.36 0
+:1.2.36 0
+:1.3.36 0
+:1.4.36 0
+:1.1.37 0
+:1.2.37 0
+:1.3.37 0
+:1.4.37 0
+:1.1.38 0
+:1.2.38 0
+:1.3.38 0
+:1.4.38 0
+:1.1.39 0
+:1.2.39 0
+:1.3.39 0
+:1.4.39 0
+:1.1.3a 0
+:1.2.3a 0
+:1.3.3a 0
+:1.4.3a 0
+:1.1.3b 0
+:1.2.3b 0
+:1.3.3b 0
+:1.4.3b 0
+:1.1.3c 0
+:1.2.3c 0
+:1.3.3c 0
+:1.4.3c 0
+:1.1.3d 0
+:1.2.3d 0
+:1.3.3d 0
+:1.4.3d 0
+:1.1.3e 0
+:1.2.3e 0
+:1.3.3e 0
+:1.4.3e 0
+:1.1.3f 0
+:1.2.3f 0
+:1.3.3f 0
+:1.4.3f 0
+:1.1.40 0
+:1.2.40 0
+:1.3.40 0
+:1.4.40 0
+:1.1.41 0
+:1.2.41 0
+:1.3.41 0
+:1.4.41 0
+:1.1.43 0
+:1.2.43 0
+:1.3.43 0
+:1.4.43 0
+:1.1.44 0
+:1.2.44 0
+:1.3.44 0
+:1.4.44 0
+:1.1.45 0
+:1.2.45 0
+:1.3.45 0
+:1.4.45 0
+:1.1.46 0
+:1.2.46 0
+:1.3.46 0
+:1.4.46 0
+:1.1.47 0
+:1.2.47 0
+:1.3.47 0
+:1.4.47 0
+:1.1.48 0
+:1.2.48 0
+:1.3.48 0
+:1.4.48 0
+:1.1.49 0
+:1.2.49 0
+:1.3.49 0
+:1.4.49 0
+:1.1.4a 0
+:1.2.4a 0
+:1.3.4a 0
+:1.4.4a 0
+:1.1.4b 0
+:1.2.4b 0
+:1.3.4b 0
+:1.4.4b 0
+:1.1.4c 0
+:1.2.4c 0
+:1.3.4c 0
+:1.4.4c 0
+:1.1.4d 0
+:1.2.4d 0
+:1.3.4d 0
+:1.4.4d 0
+:1.1.4e 0
+:1.2.4e 0
+:1.3.4e 0
+:1.4.4e 0
+:1.1.4f 0
+:1.2.4f 0
+:1.3.4f 0
+:1.4.4f 0
+:1.1.50 0
+:1.2.50 0
+:1.3.50 0
+:1.4.50 0
+:1.1.51 0
+:1.2.51 0
+:1.3.51 0
+:1.4.51 0
+:1.1.52 0
+:1.2.52 0
+:1.3.52 0
+:1.4.52 0
+:1.1.54 0
+:1.2.54 0
+:1.3.54 0
+:1.4.54 0
+:1.1.55 0
+:1.2.55 0
+:1.3.55 0
+:1.4.55 0
+:1.1.56 0
+:1.2.56 0
+:1.3.56 0
+:1.4.56 0
+:1.1.57 0
+:1.2.57 0
+:1.3.57 0
+:1.4.57 0
+:1.1.58 0
+:1.2.58 0
+:1.3.58 0
+:1.4.58 0
+:1.1.59 0
+:1.2.59 0
+:1.3.59 0
+:1.4.59 0
+:1.1.5a 0
+:1.2.5a 0
+:1.3.5a 0
+:1.4.5a 0
+:1.1.5b 0
+:1.2.5b 0
+:1.3.5b 0
+:1.4.5b 0
+:1.1.5c 0
+:1.2.5c 0
+:1.3.5c 0
+:1.4.5c 0
+:1.1.5d 0
+:1.2.5d 0
+:1.3.5d 0
+:1.4.5d 0
+:1.1.5e 0
+:1.2.5e 0
+:1.3.5e 0
+:1.4.5e 0
+:1.1.5f 0
+:1.2.5f 0
+:1.3.5f 0
+:1.4.5f 0
+:1.1.60 0
+:1.2.60 0
+:1.3.60 0
+:1.4.60 0
+:1.1.61 0
+:1.2.61 0
+:1.3.61 0
+:1.4.61 0
+:1.1.62 0
+:1.2.62 0
+:1.3.62 0
+:1.4.62 0
+:1.1.63 0
+:1.2.63 0
+:1.3.63 0
+:1.4.63 0
+:1.1.65 0
+:1.2.65 0
+:1.3.65 0
+:1.4.65 0
+:1.1.66 0
+:1.2.66 0
+:1.3.66 0
+:1.4.66 0
+:1.1.67 0
+:1.2.67 0
+:1.3.67 0
+:1.4.67 0
+:1.1.68 0
+:1.2.68 0
+:1.3.68 0
+:1.4.68 0
+:1.1.69 0
+:1.2.69 0
+:1.3.69 0
+:1.4.69 0
+:1.1.6a 0
+:1.2.6a 0
+:1.3.6a 0
+:1.4.6a 0
+:1.1.6b 0
+:1.2.6b 0
+:1.3.6b 0
+:1.4.6b 0
+:1.1.6c 0
+:1.2.6c 0
+:1.3.6c 0
+:1.4.6c 0
+:1.1.6d 0
+:1.2.6d 0
+:1.3.6d 0
+:1.4.6d 0
+:1.1.6e 0
+:1.2.6e 0
+:1.3.6e 0
+:1.4.6e 0
+:1.1.6f 0
+:1.2.6f 0
+:1.3.6f 0
+:1.4.6f 0
+:1.1.70 0
+:1.2.70 0
+:1.3.70 0
+:1.4.70 0
+:1.1.71 0
+:1.2.71 0
+:1.3.71 0
+:1.4.71 0
+:1.1.72 0
+:1.2.72 0
+:1.3.72 0
+:1.4.72 0
+:1.1.73 0
+:1.2.73 0
+:1.3.73 0
+:1.4.73 0
+:1.1.74 0
+:1.2.74 0
+:1.3.74 0
+:1.4.74 0
+:1.1.76 0
+:1.2.76 0
+:1.3.76 0
+:1.4.76 0
+:1.1.77 0
+:1.2.77 0
+:1.3.77 0
+:1.4.77 0
+:1.1.78 0
+:1.2.78 0
+:1.3.78 0
+:1.4.78 0
+:1.1.79 0
+:1.2.79 0
+:1.3.79 0
+:1.4.79 0
+:1.1.7a 0
+:1.2.7a 0
+:1.3.7a 0
+:1.4.7a 0
+:1.1.7b 0
+:1.2.7b 0
+:1.3.7b 0
+:1.4.7b 0
+:1.1.7c 0
+:1.2.7c 0
+:1.3.7c 0
+:1.4.7c 0
+:1.1.7d 0
+:1.2.7d 0
+:1.3.7d 0
+:1.4.7d 0
+:1.1.7e 0
+:1.2.7e 0
+:1.3.7e 0
+:1.4.7e 0
+:1.1.7f 0
+:1.2.7f 0
+:1.3.7f 0
+:1.4.7f 0
+:1.1.80 0
+:1.2.80 0
+:1.3.80 0
+:1.4.80 0
+:1.1.81 0
+:1.2.81 0
+:1.3.81 0
+:1.4.81 0
+:1.1.82 0
+:1.2.82 0
+:1.3.82 0
+:1.4.82 0
+:1.1.83 0
+:1.2.83 0
+:1.3.83 0
+:1.4.83 0
+:1.1.84 0
+:1.2.84 0
+:1.3.84 0
+:1.4.84 0
+:1.1.85 0
+:1.2.85 0
+:1.3.85 0
+:1.4.85 0
+:1.1.87 0
+:1.2.87 0
+:1.3.87 0
+:1.4.87 0
+:1.1.88 0
+:1.2.88 0
+:1.3.88 0
+:1.4.88 0
+:1.1.89 0
+:1.2.89 0
+:1.3.89 0
+:1.4.89 0
+:1.1.8a 0
+:1.2.8a 0
+:1.3.8a 0
+:1.4.8a 0
+:1.1.8b 0
+:1.2.8b 0
+:1.3.8b 0
+:1.4.8b 0
+:1.1.8c 0
+:1.2.8c 0
+:1.3.8c 0
+:1.4.8c 0
+:1.1.8d 0
+:1.2.8d 0
+:1.3.8d 0
+:1.4.8d 0
+:1.1.8e 0
+:1.2.8e 0
+:1.3.8e 0
+:1.4.8e 0
+:1.1.8f 0
+:1.2.8f 0
+:1.3.8f 0
+:1.4.8f 0
+:1.1.90 0
+:1.2.90 0
+:1.3.90 0
+:1.4.90 0
+:1.1.91 0
+:1.2.91 0
+:1.3.91 0
+:1.4.91 0
+:1.1.92 0
+:1.2.92 0
+:1.3.92 0
+:1.4.92 0
+:1.1.93 0
+:1.2.93 0
+:1.3.93 0
+:1.4.93 0
+:1.1.94 0
+:1.2.94 0
+:1.3.94 0
+:1.4.94 0
+:1.1.95 0
+:1.2.95 0
+:1.3.95 0
+:1.4.95 0
+:1.1.96 0
+:1.2.96 0
+:1.3.96 0
+:1.4.96 0
+:1.1.98 0
+:1.2.98 0
+:1.3.98 0
+:1.4.98 0
+:1.1.99 0
+:1.2.99 0
+:1.3.99 0
+:1.4.99 0
+:1.1.9a 0
+:1.2.9a 0
+:1.3.9a 0
+:1.4.9a 0
+:1.1.9b 0
+:1.2.9b 0
+:1.3.9b 0
+:1.4.9b 0
+:1.1.9c 0
+:1.2.9c 0
+:1.3.9c 0
+:1.4.9c 0
+:1.1.9d 0
+:1.2.9d 0
+:1.3.9d 0
+:1.4.9d 0
+:1.1.9e 0
+:1.2.9e 0
+:1.3.9e 0
+:1.4.9e 0
+:1.1.9f 0
+:1.2.9f 0
+:1.3.9f 0
+:1.4.9f 0
+:1.1.a0 0
+:1.2.a0 0
+:1.3.a0 0
+:1.4.a0 0
+:1.1.a1 0
+:1.2.a1 0
+:1.3.a1 0
+:1.4.a1 0
+:1.1.a2 0
+:1.2.a2 0
+:1.3.a2 0
+:1.4.a2 0
+:1.1.a3 0
+:1.2.a3 0
+:1.3.a3 0
+:1.4.a3 0
+:1.1.a4 0
+:1.2.a4 0
+:1.3.a4 0
+:1.4.a4 0
+:1.1.a5 0
+:1.2.a5 0
+:1.3.a5 0
+:1.4.a5 0
+:1.1.a6 0
+:1.2.a6 0
+:1.3.a6 0
+:1.4.a6 0
+:1.1.a7 0
+:1.2.a7 0
+:1.3.a7 0
+:1.4.a7 0
+:1.1.a9 0
+:1.2.a9 0
+:1.3.a9 0
+:1.4.a9 0
+:1.1.aa 0
+:1.2.aa 0
+:1.3.aa 0
+:1.4.aa 0
+:1.1.ab 0
+:1.2.ab 0
+:1.3.ab 0
+:1.4.ab 0
+:1.1.ac 0
+:1.2.ac 0
+:1.3.ac 0
+:1.4.ac 0
+:1.1.ad 0
+:1.2.ad 0
+:1.3.ad 0
+:1.4.ad 0
+:1.1.ae 0
+:1.2.ae 0
+:1.3.ae 0
+:1.4.ae 0
+:1.1.af 0
+:1.2.af 0
+:1.3.af 0
+:1.4.af 0
+:1.1.b0 0
+:1.2.b0 0
+:1.3.b0 0
+:1.4.b0 0
+:1.1.b1 0
+:1.2.b1 0
+:1.3.b1 0
+:1.4.b1 0
+:1.1.b2 0
+:1.2.b2 0
+:1.3.b2 0
+:1.4.b2 0
+:1.1.4 0
+:1.2.4 0
+:1.3.4 0
+:1.4.4 0
+:1.5.4 0
+:1.6.4 0
+:1.7.4 0
+:1.8.4 0
+:1.9.4 0
+:1.a.4 0
+:1.b.4 0
+:1.c.4 0
+:1.d.4 0
+:1.e.4 0
+:1.f.4 0
+:1.10.4 0
+:1.11.4 0
+:1.12.4 0
+:1.13.4 0
+:1.14.4 0
+:1.15.4 0
+:1.16.4 0
+:1.17.4 0
+:1.18.4 0
+:1.19.4 0
+:1.1a.4 0
+:1.1b.4 0
+:1.1c.4 0
+:1.1d.4 0
+:1.1e.4 0
+:1.1f.4 0
+:1.20.4 0
+:1.21.4 0
+:1.22.4 0
+:1.23.4 0
+:1.24.4 0
+:1.25.4 0
+:1.26.4 0
+:1.27.4 0
+:1.28.4 0
+:1.29.4 0
+:1.2a.4 0
+:1.2b.4 0
+:1.2c.4 0
+:1.2d.4 0
+:1.2e.4 0
+:1.2f.4 0
+:1.30.4 0
+:1.31.4 0
+:1.32.4 0
+:1.33.4 0
+:1.34.4 0
+:1.35.4 0
+:1.36.4 0
+:1.37.4 0
+:1.38.4 0
+:1.39.4 0
+:1.3a.4 0
+:1.3b.4 0
+:1.3c.4 0
+:1.3d.4 0
+:1.3e.4 0
+:1.3f.4 0
+:1.40.4 0
+:1.41.4 0
+:1.42.4 0
+:1.43.4 0
+:1.44.4 0
+:1.45.4 0
+:1.46.4 0
+:1.47.4 0
+:1.48.4 0
+:1.49.4 0
+:1.4a.4 0
+:1.4b.4 0
+:1.4c.4 0
+:1.4d.4 0
+:1.4e.4 0
+:1.4f.4 0
+:1.50.4 0
+:1.51.4 0
+:1.52.4 0
+:1.53.4 0
+:1.54.4 0
+:1.55.4 0
+:1.56.4 0
+:1.57.4 0
+:1.58.4 0
+:1.59.4 0
+:1.5a.4 0
+:1.5b.4 0
+:1.5c.4 0
+:1.5d.4 0
+:1.5e.4 0
+:1.5f.4 0
+:1.60.4 0
+:1.61.4 0
+:1.62.4 0
+:1.63.4 0
+:1.64.4 0
+:1.65.4 0
+:1.66.4 0
+:1.67.4 0
+:1.68.4 0
+:1.69.4 0
+:1.6a.4 0
+:1.6b.4 0
+:1.6c.4 0
+:1.6d.4 0
+:1.6e.4 0
+:1.6f.4 0
+:1.70.4 0
+:1.71.4 0
+:1.72.4 0
+:1.73.4 0
+:1.74.4 0
+:1.75.4 0
+:1.76.4 0
+:1.77.4 0
+:1.78.4 0
+:1.79.4 0
+:1.7a.4 0
+:1.7b.4 0
+:1.7c.4 0
+:1.7d.4 0
+:1.7e.4 0
+:1.7f.4 0
+:1.80.4 0
+:1.81.4 0
+:1.82.4 0
+:1.83.4 0
+:1.84.4 0
+:1.85.4 0
+:1.86.4 0
+:1.87.4 0
+:1.88.4 0
+:1.89.4 0
+:1.8a.4 0
+:1.8b.4 0
+:1.8c.4 0
+:1.8d.4 0
+:1.8e.4 0
+:1.8f.4 0
+:1.90.4 0
+:1.91.4 0
+:1.92.4 0
+:1.93.4 0
+:1.94.4 0
+:1.95.4 0
+:1.96.4 0
+:1.97.4 0
+:1.98.4 0
+:1.99.4 0
+:1.9a.4 0
+:1.9b.4 0
+:1.9c.4 0
+:1.9d.4 0
+:1.9e.4 0
+:1.9f.4 0
+:1.a0.4 0
+:1.a1.4 0
+:1.a2.4 0
+:1.a3.4 0
+:1.a4.4 0
+:1.a5.4 0
+:1.a6.4 0
+:1.a7.4 0
+:1.a8.4 0
+:1.a9.4 0
+:1.aa.4 0
+:1.ab.4 0
+:1.ac.4 0
+:1.ad.4 0
+:1.ae.4 0
+:1.af.4 0
+:1.b0.4 0
+:1.b1.4 0
+:1.b2.4 0
+:1.b3.4 0
+:1.b4.4 0
+
+Face
+
+ChildCount 0
+
+NameCount 363
+0
+:2.1.16e 0
+:2.1.c3 0
+:2.1.d4 0
+:2.1.e5 0
+:2.1.f6 0
+:2.1.107 0
+:2.1.118 0
+:2.1.129 0
+:2.1.13a 0
+:2.1.14b 0
+:2.1.15c 0
+:2.1.169 0
+:2.1.16a 0
+:2.1.16b 0
+:2.1.16c 0
+:2.1.16d 0
+:2.1.b9 0
+:2.1.ba 0
+:2.1.bb 0
+:2.1.bc 0
+:2.1.bd 0
+:2.1.be 0
+:2.1.bf 0
+:2.1.c0 0
+:2.1.c1 0
+:2.1.c2 0
+:2.1.c4 0
+:2.1.c5 0
+:2.1.c6 0
+:2.1.c7 0
+:2.1.c8 0
+:2.1.c9 0
+:2.1.ca 0
+:2.1.cb 0
+:2.1.cc 0
+:2.1.cd 0
+:2.1.ce 0
+:2.1.cf 0
+:2.1.d0 0
+:2.1.d1 0
+:2.1.d2 0
+:2.1.d3 0
+:2.1.d5 0
+:2.1.d6 0
+:2.1.d7 0
+:2.1.d8 0
+:2.1.d9 0
+:2.1.da 0
+:2.1.db 0
+:2.1.dc 0
+:2.1.dd 0
+:2.1.de 0
+:2.1.df 0
+:2.1.e0 0
+:2.1.e1 0
+:2.1.e2 0
+:2.1.e3 0
+:2.1.e4 0
+:2.1.e6 0
+:2.1.e7 0
+:2.1.e8 0
+:2.1.e9 0
+:2.1.ea 0
+:2.1.eb 0
+:2.1.ec 0
+:2.1.ed 0
+:2.1.ee 0
+:2.1.ef 0
+:2.1.f0 0
+:2.1.f1 0
+:2.1.f2 0
+:2.1.f3 0
+:2.1.f4 0
+:2.1.f5 0
+:2.1.f7 0
+:2.1.f8 0
+:2.1.f9 0
+:2.1.fa 0
+:2.1.fb 0
+:2.1.fc 0
+:2.1.fd 0
+:2.1.fe 0
+:2.1.ff 0
+:2.1.100 0
+:2.1.101 0
+:2.1.102 0
+:2.1.103 0
+:2.1.104 0
+:2.1.105 0
+:2.1.106 0
+:2.1.108 0
+:2.1.109 0
+:2.1.10a 0
+:2.1.10b 0
+:2.1.10c 0
+:2.1.10d 0
+:2.1.10e 0
+:2.1.10f 0
+:2.1.110 0
+:2.1.111 0
+:2.1.112 0
+:2.1.113 0
+:2.1.114 0
+:2.1.115 0
+:2.1.116 0
+:2.1.117 0
+:2.1.119 0
+:2.1.11a 0
+:2.1.11b 0
+:2.1.11c 0
+:2.1.11d 0
+:2.1.11e 0
+:2.1.11f 0
+:2.1.120 0
+:2.1.121 0
+:2.1.122 0
+:2.1.123 0
+:2.1.124 0
+:2.1.125 0
+:2.1.126 0
+:2.1.127 0
+:2.1.128 0
+:2.1.12a 0
+:2.1.12b 0
+:2.1.12c 0
+:2.1.12d 0
+:2.1.12e 0
+:2.1.12f 0
+:2.1.130 0
+:2.1.131 0
+:2.1.132 0
+:2.1.133 0
+:2.1.134 0
+:2.1.135 0
+:2.1.136 0
+:2.1.137 0
+:2.1.138 0
+:2.1.139 0
+:2.1.13b 0
+:2.1.13c 0
+:2.1.13d 0
+:2.1.13e 0
+:2.1.13f 0
+:2.1.140 0
+:2.1.141 0
+:2.1.142 0
+:2.1.143 0
+:2.1.144 0
+:2.1.145 0
+:2.1.146 0
+:2.1.147 0
+:2.1.148 0
+:2.1.149 0
+:2.1.14a 0
+:2.1.14c 0
+:2.1.14d 0
+:2.1.14e 0
+:2.1.14f 0
+:2.1.150 0
+:2.1.151 0
+:2.1.152 0
+:2.1.153 0
+:2.1.154 0
+:2.1.155 0
+:2.1.156 0
+:2.1.157 0
+:2.1.158 0
+:2.1.159 0
+:2.1.15a 0
+:2.1.15b 0
+:2.1.15d 0
+:2.1.15e 0
+:2.1.15f 0
+:2.1.160 0
+:2.1.161 0
+:2.1.162 0
+:2.1.163 0
+:2.1.164 0
+:2.1.165 0
+:2.1.166 0
+:2.1.167 0
+:3.1.2a9 0
+:3.1.20a 0
+:3.1.289 0
+:3.1.24b 0
+:3.1.280 0
+:3.1.212 0
+:3.1.241 0
+:3.1.26d 0
+:3.1.266 0
+:3.1.293 0
+:3.1.232 0
+:3.1.204 0
+:3.1.1f8 0
+:3.1.22f 0
+:3.1.286 0
+:3.1.285 0
+:3.1.222 0
+:3.1.208 0
+:3.1.267 0
+:3.1.205 0
+:3.1.271 0
+:3.1.23b 0
+:3.1.26c 0
+:3.1.206 0
+:3.1.24f 0
+:3.1.283 0
+:3.1.21d 0
+:3.1.265 0
+:3.1.284 0
+:3.1.28a 0
+:3.1.257 0
+:3.1.1fb 0
+:3.1.1f6 0
+:3.1.298 0
+:3.1.23f 0
+:3.1.259 0
+:3.1.236 0
+:3.1.221 0
+:3.1.249 0
+:3.1.270 0
+:3.1.28e 0
+:3.1.228 0
+:3.1.29c 0
+:3.1.260 0
+:3.1.291 0
+:3.1.20e 0
+:3.1.20c 0
+:3.1.277 0
+:3.1.233 0
+:3.1.24d 0
+:3.1.261 0
+:3.1.2a0 0
+:3.1.268 0
+:3.1.26f 0
+:3.1.21e 0
+:3.1.20d 0
+:3.1.295 0
+:3.1.27b 0
+:3.1.240 0
+:3.1.29d 0
+:3.1.244 0
+:3.1.22a 0
+:3.1.215 0
+:3.1.256 0
+:3.1.253 0
+:3.1.207 0
+:3.1.21c 0
+:3.1.299 0
+:3.1.269 0
+:3.1.213 0
+:3.1.2a6 0
+:3.1.273 0
+:3.1.202 0
+:3.1.258 0
+:3.1.200 0
+:3.1.245 0
+:3.1.2a1 0
+:3.1.1fa 0
+:3.1.288 0
+:3.1.27a 0
+:3.1.20f 0
+:3.1.278 0
+:3.1.21a 0
+:3.1.254 0
+:3.1.27e 0
+:3.1.255 0
+:3.1.216 0
+:3.1.24a 0
+:3.1.234 0
+:3.1.296 0
+:3.1.292 0
+:3.1.2a8 0
+:3.1.21f 0
+:3.1.22b 0
+:3.1.25f 0
+:3.1.1f7 0
+:3.1.294 0
+:3.1.28b 0
+:3.1.290 0
+:3.1.22e 0
+:3.1.226 0
+:3.1.26b 0
+:3.1.2a7 0
+:3.1.237 0
+:3.1.251 0
+:3.1.224 0
+:3.1.25b 0
+:3.1.24e 0
+:3.1.25a 0
+:3.1.250 0
+:3.1.297 0
+:3.1.238 0
+:3.1.21b 0
+:3.1.29e 0
+:3.1.1f9 0
+:3.1.23d 0
+:3.1.20b 0
+:3.1.203 0
+:3.1.264 0
+:3.1.230 0
+:3.1.1fd 0
+:3.1.275 0
+:3.1.25e 0
+:3.1.242 0
+:3.1.26a 0
+:3.1.218 0
+:3.1.2a5 0
+:3.1.29f 0
+:3.1.28d 0
+:3.1.29b 0
+:3.1.25c 0
+:3.1.219 0
+:3.1.272 0
+:3.1.1fc 0
+:3.1.274 0
+:3.1.201 0
+:3.1.23c 0
+:3.1.262 0
+:3.1.287 0
+:3.1.225 0
+:3.1.27d 0
+:3.1.214 0
+:3.1.2a3 0
+:3.1.243 0
+:3.1.235 0
+:3.1.22d 0
+:3.1.223 0
+:3.1.28c 0
+:3.1.210 0
+:3.1.22c 0
+:3.1.25d 0
+:3.1.279 0
+:3.1.229 0
+:3.1.231 0
+:3.1.26e 0
+:3.1.2a2 0
+:3.1.27f 0
+:3.1.23e 0
+:3.1.1fe 0
+:3.1.248 0
+:3.1.1ff 0
+:3.1.28f 0
+:3.1.227 0
+:3.1.252 0
+:3.1.263 0
+:3.1.220 0
+:3.1.24c 0
+:3.1.247 0
+:3.1.246 0
+:3.1.29a 0
+:3.1.2a4 0
+:3.1.239 0
+:3.1.23a 0
+:3.1.276 0
+:3.1.27c 0
+:3.1.211 0
+:3.1.209 0
+:3.1.217 0
+:3.1.281 0
+:3.1.282 0
+:2.1.168 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 541
+0
+:3.1.1f5 0
+:3.2.1f5 0
+:3.3.1f5 0
+:3.4.1f5 0
+:3.1.179 0
+:3.2.179 0
+:3.3.179 0
+:3.4.179 0
+:3.1.18a 0
+:3.2.18a 0
+:3.3.18a 0
+:3.4.18a 0
+:3.1.19b 0
+:3.2.19b 0
+:3.3.19b 0
+:3.4.19b 0
+:3.1.1ac 0
+:3.2.1ac 0
+:3.3.1ac 0
+:3.4.1ac 0
+:3.1.1bd 0
+:3.2.1bd 0
+:3.3.1bd 0
+:3.4.1bd 0
+:3.1.1ce 0
+:3.2.1ce 0
+:3.3.1ce 0
+:3.4.1ce 0
+:3.1.1df 0
+:3.2.1df 0
+:3.3.1df 0
+:3.4.1df 0
+:3.1.1ed 0
+:3.2.1ed 0
+:3.3.1ed 0
+:3.4.1ed 0
+:3.1.1ee 0
+:3.2.1ee 0
+:3.3.1ee 0
+:3.4.1ee 0
+:3.1.1ef 0
+:3.2.1ef 0
+:3.3.1ef 0
+:3.4.1ef 0
+:3.1.1f0 0
+:3.2.1f0 0
+:3.3.1f0 0
+:3.4.1f0 0
+:3.1.1f1 0
+:3.2.1f1 0
+:3.3.1f1 0
+:3.4.1f1 0
+:3.1.1f2 0
+:3.2.1f2 0
+:3.3.1f2 0
+:3.4.1f2 0
+:3.1.1f3 0
+:3.2.1f3 0
+:3.3.1f3 0
+:3.4.1f3 0
+:3.1.1f4 0
+:3.2.1f4 0
+:3.3.1f4 0
+:3.4.1f4 0
+:3.1.16f 0
+:3.2.16f 0
+:3.3.16f 0
+:3.4.16f 0
+:3.1.170 0
+:3.2.170 0
+:3.3.170 0
+:3.4.170 0
+:3.1.171 0
+:3.2.171 0
+:3.3.171 0
+:3.4.171 0
+:3.1.172 0
+:3.2.172 0
+:3.3.172 0
+:3.4.172 0
+:3.1.173 0
+:3.2.173 0
+:3.3.173 0
+:3.4.173 0
+:3.1.174 0
+:3.2.174 0
+:3.3.174 0
+:3.4.174 0
+:3.1.175 0
+:3.2.175 0
+:3.3.175 0
+:3.4.175 0
+:3.1.176 0
+:3.2.176 0
+:3.3.176 0
+:3.4.176 0
+:3.1.177 0
+:3.2.177 0
+:3.3.177 0
+:3.4.177 0
+:3.1.178 0
+:3.2.178 0
+:3.3.178 0
+:3.4.178 0
+:3.1.17a 0
+:3.2.17a 0
+:3.3.17a 0
+:3.4.17a 0
+:3.1.17b 0
+:3.2.17b 0
+:3.3.17b 0
+:3.4.17b 0
+:3.1.17c 0
+:3.2.17c 0
+:3.3.17c 0
+:3.4.17c 0
+:3.1.17d 0
+:3.2.17d 0
+:3.3.17d 0
+:3.4.17d 0
+:3.1.17e 0
+:3.2.17e 0
+:3.3.17e 0
+:3.4.17e 0
+:3.1.17f 0
+:3.2.17f 0
+:3.3.17f 0
+:3.4.17f 0
+:3.1.180 0
+:3.2.180 0
+:3.3.180 0
+:3.4.180 0
+:3.1.181 0
+:3.2.181 0
+:3.3.181 0
+:3.4.181 0
+:3.1.182 0
+:3.2.182 0
+:3.3.182 0
+:3.4.182 0
+:3.1.183 0
+:3.2.183 0
+:3.3.183 0
+:3.4.183 0
+:3.1.184 0
+:3.2.184 0
+:3.3.184 0
+:3.4.184 0
+:3.1.185 0
+:3.2.185 0
+:3.3.185 0
+:3.4.185 0
+:3.1.186 0
+:3.2.186 0
+:3.3.186 0
+:3.4.186 0
+:3.1.187 0
+:3.2.187 0
+:3.3.187 0
+:3.4.187 0
+:3.1.188 0
+:3.2.188 0
+:3.3.188 0
+:3.4.188 0
+:3.1.189 0
+:3.2.189 0
+:3.3.189 0
+:3.4.189 0
+:3.1.18b 0
+:3.2.18b 0
+:3.3.18b 0
+:3.4.18b 0
+:3.1.18c 0
+:3.2.18c 0
+:3.3.18c 0
+:3.4.18c 0
+:3.1.18d 0
+:3.2.18d 0
+:3.3.18d 0
+:3.4.18d 0
+:3.1.18e 0
+:3.2.18e 0
+:3.3.18e 0
+:3.4.18e 0
+:3.1.18f 0
+:3.2.18f 0
+:3.3.18f 0
+:3.4.18f 0
+:3.1.190 0
+:3.2.190 0
+:3.3.190 0
+:3.4.190 0
+:3.1.191 0
+:3.2.191 0
+:3.3.191 0
+:3.4.191 0
+:3.1.192 0
+:3.2.192 0
+:3.3.192 0
+:3.4.192 0
+:3.1.193 0
+:3.2.193 0
+:3.3.193 0
+:3.4.193 0
+:3.1.194 0
+:3.2.194 0
+:3.3.194 0
+:3.4.194 0
+:3.1.195 0
+:3.2.195 0
+:3.3.195 0
+:3.4.195 0
+:3.1.196 0
+:3.2.196 0
+:3.3.196 0
+:3.4.196 0
+:3.1.197 0
+:3.2.197 0
+:3.3.197 0
+:3.4.197 0
+:3.1.198 0
+:3.2.198 0
+:3.3.198 0
+:3.4.198 0
+:3.1.199 0
+:3.2.199 0
+:3.3.199 0
+:3.4.199 0
+:3.1.19a 0
+:3.2.19a 0
+:3.3.19a 0
+:3.4.19a 0
+:3.1.19c 0
+:3.2.19c 0
+:3.3.19c 0
+:3.4.19c 0
+:3.1.19d 0
+:3.2.19d 0
+:3.3.19d 0
+:3.4.19d 0
+:3.1.19e 0
+:3.2.19e 0
+:3.3.19e 0
+:3.4.19e 0
+:3.1.19f 0
+:3.2.19f 0
+:3.3.19f 0
+:3.4.19f 0
+:3.1.1a0 0
+:3.2.1a0 0
+:3.3.1a0 0
+:3.4.1a0 0
+:3.1.1a1 0
+:3.2.1a1 0
+:3.3.1a1 0
+:3.4.1a1 0
+:3.1.1a2 0
+:3.2.1a2 0
+:3.3.1a2 0
+:3.4.1a2 0
+:3.1.1a3 0
+:3.2.1a3 0
+:3.3.1a3 0
+:3.4.1a3 0
+:3.1.1a4 0
+:3.2.1a4 0
+:3.3.1a4 0
+:3.4.1a4 0
+:3.1.1a5 0
+:3.2.1a5 0
+:3.3.1a5 0
+:3.4.1a5 0
+:3.1.1a6 0
+:3.2.1a6 0
+:3.3.1a6 0
+:3.4.1a6 0
+:3.1.1a7 0
+:3.2.1a7 0
+:3.3.1a7 0
+:3.4.1a7 0
+:3.1.1a8 0
+:3.2.1a8 0
+:3.3.1a8 0
+:3.4.1a8 0
+:3.1.1a9 0
+:3.2.1a9 0
+:3.3.1a9 0
+:3.4.1a9 0
+:3.1.1aa 0
+:3.2.1aa 0
+:3.3.1aa 0
+:3.4.1aa 0
+:3.1.1ab 0
+:3.2.1ab 0
+:3.3.1ab 0
+:3.4.1ab 0
+:3.1.1ad 0
+:3.2.1ad 0
+:3.3.1ad 0
+:3.4.1ad 0
+:3.1.1ae 0
+:3.2.1ae 0
+:3.3.1ae 0
+:3.4.1ae 0
+:3.1.1af 0
+:3.2.1af 0
+:3.3.1af 0
+:3.4.1af 0
+:3.1.1b0 0
+:3.2.1b0 0
+:3.3.1b0 0
+:3.4.1b0 0
+:3.1.1b1 0
+:3.2.1b1 0
+:3.3.1b1 0
+:3.4.1b1 0
+:3.1.1b2 0
+:3.2.1b2 0
+:3.3.1b2 0
+:3.4.1b2 0
+:3.1.1b3 0
+:3.2.1b3 0
+:3.3.1b3 0
+:3.4.1b3 0
+:3.1.1b4 0
+:3.2.1b4 0
+:3.3.1b4 0
+:3.4.1b4 0
+:3.1.1b5 0
+:3.2.1b5 0
+:3.3.1b5 0
+:3.4.1b5 0
+:3.1.1b6 0
+:3.2.1b6 0
+:3.3.1b6 0
+:3.4.1b6 0
+:3.1.1b7 0
+:3.2.1b7 0
+:3.3.1b7 0
+:3.4.1b7 0
+:3.1.1b8 0
+:3.2.1b8 0
+:3.3.1b8 0
+:3.4.1b8 0
+:3.1.1b9 0
+:3.2.1b9 0
+:3.3.1b9 0
+:3.4.1b9 0
+:3.1.1ba 0
+:3.2.1ba 0
+:3.3.1ba 0
+:3.4.1ba 0
+:3.1.1bb 0
+:3.2.1bb 0
+:3.3.1bb 0
+:3.4.1bb 0
+:3.1.1bc 0
+:3.2.1bc 0
+:3.3.1bc 0
+:3.4.1bc 0
+:3.1.1be 0
+:3.2.1be 0
+:3.3.1be 0
+:3.4.1be 0
+:3.1.1bf 0
+:3.2.1bf 0
+:3.3.1bf 0
+:3.4.1bf 0
+:3.1.1c0 0
+:3.2.1c0 0
+:3.3.1c0 0
+:3.4.1c0 0
+:3.1.1c1 0
+:3.2.1c1 0
+:3.3.1c1 0
+:3.4.1c1 0
+:3.1.1c2 0
+:3.2.1c2 0
+:3.3.1c2 0
+:3.4.1c2 0
+:3.1.1c3 0
+:3.2.1c3 0
+:3.3.1c3 0
+:3.4.1c3 0
+:3.1.1c4 0
+:3.2.1c4 0
+:3.3.1c4 0
+:3.4.1c4 0
+:3.1.1c5 0
+:3.2.1c5 0
+:3.3.1c5 0
+:3.4.1c5 0
+:3.1.1c6 0
+:3.2.1c6 0
+:3.3.1c6 0
+:3.4.1c6 0
+:3.1.1c7 0
+:3.2.1c7 0
+:3.3.1c7 0
+:3.4.1c7 0
+:3.1.1c8 0
+:3.2.1c8 0
+:3.3.1c8 0
+:3.4.1c8 0
+:3.1.1c9 0
+:3.2.1c9 0
+:3.3.1c9 0
+:3.4.1c9 0
+:3.1.1ca 0
+:3.2.1ca 0
+:3.3.1ca 0
+:3.4.1ca 0
+:3.1.1cb 0
+:3.2.1cb 0
+:3.3.1cb 0
+:3.4.1cb 0
+:3.1.1cc 0
+:3.2.1cc 0
+:3.3.1cc 0
+:3.4.1cc 0
+:3.1.1cd 0
+:3.2.1cd 0
+:3.3.1cd 0
+:3.4.1cd 0
+:3.1.1cf 0
+:3.2.1cf 0
+:3.3.1cf 0
+:3.4.1cf 0
+:3.1.1d0 0
+:3.2.1d0 0
+:3.3.1d0 0
+:3.4.1d0 0
+:3.1.1d1 0
+:3.2.1d1 0
+:3.3.1d1 0
+:3.4.1d1 0
+:3.1.1d2 0
+:3.2.1d2 0
+:3.3.1d2 0
+:3.4.1d2 0
+:3.1.1d3 0
+:3.2.1d3 0
+:3.3.1d3 0
+:3.4.1d3 0
+:3.1.1d4 0
+:3.2.1d4 0
+:3.3.1d4 0
+:3.4.1d4 0
+:3.1.1d5 0
+:3.2.1d5 0
+:3.3.1d5 0
+:3.4.1d5 0
+:3.1.1d6 0
+:3.2.1d6 0
+:3.3.1d6 0
+:3.4.1d6 0
+:3.1.1d7 0
+:3.2.1d7 0
+:3.3.1d7 0
+:3.4.1d7 0
+:3.1.1d8 0
+:3.2.1d8 0
+:3.3.1d8 0
+:3.4.1d8 0
+:3.1.1d9 0
+:3.2.1d9 0
+:3.3.1d9 0
+:3.4.1d9 0
+:3.1.1da 0
+:3.2.1da 0
+:3.3.1da 0
+:3.4.1da 0
+:3.1.1db 0
+:3.2.1db 0
+:3.3.1db 0
+:3.4.1db 0
+:3.1.1dc 0
+:3.2.1dc 0
+:3.3.1dc 0
+:3.4.1dc 0
+:3.1.1dd 0
+:3.2.1dd 0
+:3.3.1dd 0
+:3.4.1dd 0
+:3.1.1de 0
+:3.2.1de 0
+:3.3.1de 0
+:3.4.1de 0
+:3.1.1e0 0
+:3.2.1e0 0
+:3.3.1e0 0
+:3.4.1e0 0
+:3.1.1e1 0
+:3.2.1e1 0
+:3.3.1e1 0
+:3.4.1e1 0
+:3.1.1e2 0
+:3.2.1e2 0
+:3.3.1e2 0
+:3.4.1e2 0
+:3.1.1e3 0
+:3.2.1e3 0
+:3.3.1e3 0
+:3.4.1e3 0
+:3.1.1e4 0
+:3.2.1e4 0
+:3.3.1e4 0
+:3.4.1e4 0
+:3.1.1e5 0
+:3.2.1e5 0
+:3.3.1e5 0
+:3.4.1e5 0
+:3.1.1e6 0
+:3.2.1e6 0
+:3.3.1e6 0
+:3.4.1e6 0
+:3.1.1e7 0
+:3.2.1e7 0
+:3.3.1e7 0
+:3.4.1e7 0
+:3.1.1e8 0
+:3.2.1e8 0
+:3.3.1e8 0
+:3.4.1e8 0
+:3.1.1e9 0
+:3.2.1e9 0
+:3.3.1e9 0
+:3.4.1e9 0
+:3.1.1ea 0
+:3.2.1ea 0
+:3.3.1ea 0
+:3.4.1ea 0
+:3.1.1eb 0
+:3.2.1eb 0
+:3.3.1eb 0
+:3.4.1eb 0
+:3.1.1ec 0
+:3.2.1ec 0
+:3.3.1ec 0
+:3.4.1ec 0
+
+EndMap
+
+ElementMap 2 23 3
+
+Edge
+
+ChildCount 1
+1 0 900 0 1 ;:H,E 0
+
+NameCount 0
+
+Face
+
+ChildCount 1
+1 0 362 0 1 ;:H,F 0
+
+NameCount 0
+
+Vertex
+
+ChildCount 1
+1 0 540 0 1 ;:H,V 0
+
+NameCount 0
+
+EndMap

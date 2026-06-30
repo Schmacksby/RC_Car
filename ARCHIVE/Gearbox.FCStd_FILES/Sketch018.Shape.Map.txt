@@ -1,0 +1,133 @@
+BeginElementMap v1
+87 PostfixCount 3
+Edge
+Vertex
+;SKT
+
+MapCount 2
+
+ElementMap 1 88 2
+
+Edge
+
+ChildCount 0
+
+NameCount 16
+0
+;g61.3 0
+;g62.3 0
+;g63.3 0
+;g64.3 0
+;g65.3 0
+;g66.3 0
+;g67.3 0
+;g68.3 0
+;g69.3 0
+;g70.3 0
+;g71.3 0
+;g72.3 0
+;g73.3 0
+;g74.3 0
+;g75.3 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 16
+0
+;g61v1.3 ;g75v2.3 0
+;g61v2.3 ;g62v1.3 0
+;g62v2.3 ;g63v1.3 0
+;g63v2.3 ;g64v1.3 0
+;g64v2.3 ;g65v1.3 0
+;g65v2.3 ;g66v1.3 0
+;g66v2.3 ;g67v1.3 0
+;g67v2.3 ;g68v1.3 0
+;g68v2.3 ;g69v1.3 0
+;g69v2.3 ;g70v1.3 0
+;g70v2.3 ;g71v1.3 0
+;g71v2.3 ;g72v1.3 0
+;g72v2.3 ;g73v1.3 0
+;g73v2.3 ;g74v1.3 0
+;g74v2.3 ;g75v1.3 0
+
+EndMap
+
+ElementMap 2 87 2
+
+Edge
+
+ChildCount 1
+1 0 15 0 1 ;:H,E 0
+
+NameCount 30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+;g76.3 0
+;g77.3 0
+;g78.3 0
+;g79.3 0
+;g80.3 0
+;g81.3 0
+;g82.3 0
+;g83.3 0
+;g84.3 0
+;g85.3 0
+;g86.3 0
+;g87.3 0
+;g88.3 0
+;g89.3 0
+
+Vertex
+
+ChildCount 1
+1 0 15 0 1 ;:H,V 0
+
+NameCount 30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+;g76v1.3 0
+;g76v2.3 0
+;g77v2.3 0
+;g78v2.3 0
+;g79v2.3 0
+;g80v2.3 0
+;g81v2.3 0
+;g82v2.3 0
+;g83v2.3 0
+;g84v2.3 0
+;g85v2.3 0
+;g86v2.3 0
+;g87v2.3 0
+;g88v2.3 0
+
+EndMap

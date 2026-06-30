@@ -1,0 +1,283 @@
+BeginElementMap v1
+94 PostfixCount 78
+Edge
+Face
+Vertex
+;:M;CUT;:H40d:7,E
+;:H40d,E
+;:H40d,V
+;:M;CUT;:H40d:7,V
+;:M;CUT;:H40d:7,F
+;:G#ca8f;CUT;:H40d:c,V
+;:G#ca8b;CUT;:H40d:c,V
+;:G#ca2a;CUT;:H40d:c,V
+;:G#ca7b;CUT;:H40d:c,V
+;:G#ca7a;CUT;:H40d:c,V
+;:G#ca79;CUT;:H40d:c,V
+;:G#ca76;CUT;:H40d:c,V
+;:G#ca75;CUT;:H40d:c,V
+;:G#ca83;CUT;:H40d:c,V
+;:G#ca82;CUT;:H40d:c,V
+;:G#ca81;CUT;:H40d:c,V
+;:G#ca80;CUT;:H40d:c,V
+;:G#ca7f;CUT;:H40d:c,V
+;:G#ca7e;CUT;:H40d:c,V
+;:G#ca8e;CUT;:H40d:c,V
+;:G#ca8d;CUT;:H40d:c,V
+;:G#ca87;CUT;:H40d:c,V
+;:G#ca86;CUT;:H40d:c,V
+;:G#ca85;CUT;:H40d:c,V
+;:G#ca84;CUT;:H40d:c,V
+;:G#ca2d;CUT;:H-40f:c,V
+;:G2#ca2c;CUT;:H-40f:d,V
+;:M;CUT;:H-40f:7,E
+;:G17#ca5f;CUT;:H-40f:e,E
+;:G18#ca5e;CUT;:H-40f:e,E
+;:G19#ca5d;CUT;:H-40f:e,E
+;:G20#ca5c;CUT;:H-40f:e,E
+;:G21#ca5b;CUT;:H-40f:e,E
+;:G22#ca5a;CUT;:H-40f:e,E
+;:G23#ca28;CUT;:H-40f:e,E
+;:G24#ca1e;CUT;:H-40f:e,E
+;:G25#ca65;CUT;:H-40f:e,E
+;:G26#ca64;CUT;:H-40f:e,E
+;:G27#ca63;CUT;:H-40f:e,E
+;:G28#ca62;CUT;:H-40f:e,E
+;:G29#ca61;CUT;:H-40f:e,E
+;:G30#ca60;CUT;:H-40f:e,E
+;:G31#ca6a;CUT;:H-40f:e,E
+;:G32#ca69;CUT;:H-40f:e,E
+;:G33#ca68;CUT;:H-40f:e,E
+;:G34#ca67;CUT;:H-40f:e,E
+;:G35#ca66;CUT;:H-40f:e,E
+;:G36#ca1c;CUT;:H-40f:e,E
+;:M;CUT;:H-40f:7,F
+;:G10#ca6e;CUT;:H-40f:e,E
+;:G11#ca6b;CUT;:H-40f:e,E
+;:G12#ca1d;CUT;:H-40f:e,E
+;:G5#ca72;CUT;:H-40f:d,E
+;:G6#ca71;CUT;:H-40f:d,E
+;:G7#ca6d;CUT;:H-40f:d,E
+;:G8#ca70;CUT;:H-40f:d,E
+;:G9#ca6f;CUT;:H-40f:d,E
+;:M2;CUT;:H-40f:8,F
+;:G#ca73;CUT;:H-40f:c,E
+;:G2#ca74;CUT;:H-40f:d,E
+;:G3#ca6c;CUT;:H-40f:d,E
+;:G4#ca1b;CUT;:H-40f:d,E
+;:G#ca8a;CUT;:H-40f:c,V
+;:G2#ca26;CUT;:H-40f:d,V
+;:M2;CUT;:H-40f:8,E
+;:G#ca90;CUT;:H-40f:c,V
+;:G2#ca8c;CUT;:H-40f:d,V
+;:G3#ca89;CUT;:H-40f:d,V
+;:G4#ca29;CUT;:H-40f:d,V
+;:G#ca7c;CUT;:H-40f:c,V
+;:G2#ca7d;CUT;:H-40f:d,V
+;:G3#ca88;CUT;:H-40f:d,V
+;:G4#ca2b;CUT;:H-40f:d,V
+;:G#ca78;CUT;:H-40f:c,V
+;:G2#ca77;CUT;:H-40f:d,V
+
+MapCount 1
+
+ElementMap 1 94 3
+
+Edge
+
+ChildCount 0
+
+NameCount 88
+0
+$#c9c2.4 0
+$#c9e0:1.33.c969.c969.c98e.c9b4.c9d3.ca1a.ca1c 0
+$#c9e0:2.37.c969.c969.c98e.c9b4.c9d3.ca1a.ca1d 0
+$#c9e0:3.41.c969.c969.c98e.c9b4.ca1a.ca1b 0
+$#ca16:4a.4 0
+$#c969:49.5 0
+$#c9e0:1.27.c969.c98e.c9d3.ca1e 0
+$#c9c1.4 0
+$#c9d3:1.1f 0
+$#c9e0:1.26.c969.c98e.c9d3.ca28 0
+$#c9e0:1.25.c969.c98e.c9d3.ca5a 0
+$#ca33.1f 0
+$#c9e0:1.24.c969.c98e.c9d3.ca5b 0
+$#c9e0:1.23.c969.c98e.c9d3.ca5c 0
+$#c9e0:1.22.c969.c98e.c9d3.ca5d 0
+$#c9e0:1.21.c969.c98e.c9d3.ca5e 0
+$#c9e0:1.20.c969.c98e.c9d3.ca5f 0
+$#ca32.44 0
+$#c9e0:1.2d.c98a.c98f.c9d3.ca60 0
+$#c9e0:1.2c.c98a.c98f.c9d3.ca61 0
+$#c9e0:1.2b.c98a.c98f.c9d3.ca62 0
+$#c9e0:1.2a.c98a.c98f.c9d3.ca63 0
+$#c9e0:1.29.c98a.c98f.c9d3.ca64 0
+$#c9e0:1.28.c98a.c98f.c9d3.ca65 0
+$#c9e0:1.32.c98a.c98f.c9d3.ca66 0
+$#c9e0:1.31.c98a.c98f.c9d3.ca67 0
+$#c9e0:1.30.c98a.c98f.c9d3.ca68 0
+$#c9e0:1.2f.c98a.c98f.c9d3.ca69 0
+$#c9e0:1.2e.c98a.c98f.c9d3.ca6a 0
+$#ca32.1f 0
+$#c9e0:2.36.c98a.c98f.c9d3.ca6b 0
+$#ca31.1f 0
+$#ca30.1f 0
+$#c9e0:3.40.c98a.c98f.c9d3.ca6c 0
+$#c969:48.5 0
+$#c969:47.5 0
+$#c969:46.4 0
+$#c969:44.4 0
+$#c969:43.5 0
+$#c969:42.5 0
+$#c969:41.5 0
+$#c969:40.5 0
+$#c969:3f.5 0
+$#c969:3e.4 0
+$#ca30.44 0
+$#c98a:53.4 0
+$#c98a:52.5 0
+$#c98a:51.5 0
+$#c98a:50.5 0
+$#c98a:4f.5 0
+$#c98a:4e.5 0
+$#c98a:4d.5 0
+$#c98a:4c.5 0
+$#c98a:59.5 0
+$#c98a:58.5 0
+$#c98a:57.5 0
+$#c98a:56.5 0
+$#c98a:55.4 0
+$#c9c0.4 0
+$#c9bf.4 0
+$#c9bc.4 0
+$#c9bb.4 0
+$#c9ba.4 0
+$#c9b9.4 0
+$#c9e0:2.3a.c969.c98e.c9d3.ca6d 0
+$#c9b8.4 0
+$#c9e0:2.35.c98a.c98f.c9d3.ca6e 0
+$#c9e0:2.3c.c98a.c98f.c9d3.ca6f 0
+$#c9e0:2.3b.c98a.c98f.c9d3.ca70 0
+$#c9e0:2.39.c969.c98e.c9d3.ca71 0
+$#c9e0:2.38.c969.c98e.c9d3.ca72 0
+$#ca31.44 0
+$#c9ca.4 0
+$#c9c9.4 0
+$#c9c8.4 0
+$#c9c7.4 0
+$#c9c6.4 0
+$#c9c5.4 0
+$#c9c4.4 0
+$#c9d1.4 0
+$#c9d0.4 0
+$#c9cf.4 0
+$#c9ce.4 0
+$#c9b7.4 0
+$#c9e0:3.3e.c969.c98e.c9d3.ca73 0
+$#c9e0:3.3f.c98a.c98f.c9d3.ca74 0
+$#c9cb.4 0
+
+Face
+
+ChildCount 0
+
+NameCount 32
+0
+$#ca1a:4a.8.c969.c969.c98e.c9b4 0
+$#c98e:49.8.c969 0
+$#c9e0:1.34.c9d3 0
+$#c9e0:2.34.c9d3 0
+$#c9e0:3.3d.c9d3 0
+$#ca21:3d.8 0
+$#c98e:48.8.c969 0
+$#c98e:47.8.c969 0
+$#c98e:46.8.c969 0
+$#c98e:44.8.c969 0
+$#c98e:43.8.c969 0
+$#c98e:42.8.c969 0
+$#c98e:41.8.c969 0
+$#c98e:40.8.c969 0
+$#c9e0:2.3d.c9d3 0
+$#c98f:51.8.c98a 0
+$#c98f:50.8.c98a 0
+$#c98f:4f.8.c98a 0
+$#c98f:4e.8.c98a 0
+$#c98f:4d.8.c98a 0
+$#c98f:4c.8 0
+$#c98f:59.8.c98a 0
+$#c98f:58.8.c98a 0
+$#c98f:57.8.c98a 0
+$#c98f:56.8.c98a 0
+$#c98f:55.8.c98a 0
+$#c98e:3f.8.c969 0
+$#c98e:3e.8.c969 0
+$#c9e0:3.34.c9d3 0
+$#c98f:53.8.c98a 0
+$#c98f:52.8.c98a 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 59
+0
+$#c978.6 $#ca01.6 0
+$#c9c2.10.c9d3.c9e0.ca75 0
+$#ca32.4c.c969.c969.c98e.c9b4.ca1a.ca2b 0
+$#ca31.48.c969.c969.c98e.c9b4.ca1a.ca29 0
+$#ca30.43.c969.c9ae.ca16.ca26 0
+$#c977.6 $#ca00.6 0
+$#c9d3:1.1e.c977.c9c1.ca2c 0
+$#c9d3:1.1d.c976.c9c0.ca2d 0
+$#c9bf.f.c9d3.c9e0.ca76 0
+$#ca33.4e.c969.ca77 0
+$#ca33.4d.c969.ca78 0
+$#c9bc.e.c9d3.c9e0.ca79 0
+$#c9bb.d.c9d3.c9e0.ca7a 0
+$#c9ba.c.c9d3.c9e0.ca7b 0
+$#c9b9.b.c9d3.c9e0.ca2a 0
+$#ca32.49.c969.c98e.ca7c 0
+$#ca32.4a.c98a.c98f.ca7d 0
+$#c9c9.16.c9d3.c9e0.ca7e 0
+$#c9c8.15.c9d3.c9e0.ca7f 0
+$#c9c7.14.c9d3.c9e0.ca80 0
+$#c9c6.13.c9d3.c9e0.ca81 0
+$#c9c5.12.c9d3.c9e0.ca82 0
+$#c9c4.11.c9d3.c9e0.ca83 0
+$#c9d1.1c.c9d3.c9e0.ca84 0
+$#c9d0.1b.c9d3.c9e0.ca85 0
+$#c9cf.1a.c9d3.c9e0.ca86 0
+$#c9ce.19.c9d3.c9e0.ca87 0
+$#ca32.4b.c98a.c98f.ca88 0
+$#ca31.47.c98a.c98f.ca89 0
+$#c984.7 0
+$#c976.6 $#c9ff.6 0
+$#c975.6 $#c9fd.6 0
+$#c972.6 $#c9f7.6 0
+$#c971.6 $#c9f5.6 0
+$#c970.6 $#c9f3.6 0
+$#c96f.6 $#c9f1.6 0
+$#c96e.6 $#c9ef.6 0
+$#c96d.6 $#c9ed.6 0
+$#ca30.42.c969.ca8a 0
+$#c983.7 0
+$#c982.6 0
+$#c981.6 0
+$#c980.6 0
+$#c97f.6 0
+$#c97e.6 0
+$#c97d.6 0
+$#c97c.6 0
+$#c97b.6 0
+$#c988.6 0
+$#c987.6 0
+$#c986.6 0
+$#c985.6 0
+$#c9b8.a.c9d3.c9e0.ca8b 0
+$#ca31.46.c98a.c98f.ca8c 0
+$#c9cb.18.c9d3.c9e0.ca8d 0
+$#c9ca.17.c9d3.c9e0.ca8e 0
+$#c9b7.9.c9d3.c9e0.ca8f 0
+$#ca31.45.c969.c98e.ca90 0
+
+EndMap

@@ -1,0 +1,293 @@
+BeginElementMap v1
+110 PostfixCount 24
+Edge
+Face
+Vertex
+;:G#d07c;CUT;:H-41a:c,V
+;:M;CUT;:H-41a:7,E
+;:M;CUT;:H-41a:7,V
+;:G#d075;CUT;:H-41a:c,E
+;:M;CUT;:H-41a:7,F
+;:H418,V
+;:M;CUT;:H418:7,V
+;:H418,E
+;:M;CUT;:H418:7,E
+;:M2;CUT;:H418:8,E
+;:H418,F
+;:M;CUT;:H418:7,F
+;:M2;CUT;:H418:8,F
+;:G#d072;CUT;:H-41a:c,E
+;:G2#d08e;CUT;:H-41a:d,E
+;:M2;CUT;:H-41a:8,F
+;:G#d090;CUT;:H-41a:c,V
+;:G2#d08f;CUT;:H-41a:d,V
+;:G3#d07b;CUT;:H-41a:d,V
+;:M2;CUT;:H-41a:8,E
+;:M3;CUT;:H-41a:8,E
+
+MapCount 1
+
+ElementMap 1 110 3
+
+Edge
+
+ChildCount 0
+
+NameCount 120
+0
+$#cfef:49.b 0
+$#cff1:4a.b 0
+$#cff2:4b.b 0
+$#cff3:4c.b 0
+$#cff4:4d.b 0
+$#cff5:4e.b 0
+$#d070:4f.c 0
+$#d07d.5 0
+$#d074:1.11 0
+$#cfff:50.c.c98a.cb4e.cc35.ce3e.cf12 0
+$#cfff:51.b.c98a.cb4e.cc35.ce3e.cf12 0
+$#cfff:52.b.ce3e.cf12 0
+$#d000:53.b 0
+$#d001.b 0
+$#d002:55.b 0
+$#d004.b 0
+$#d005:1.b 0
+$#d007:49.b 0
+$#d005:3.b.ceb4 0
+$#d009:49.b 0
+$#d00a.b 0
+$#d00b:49.b 0
+$#d00c:49.b 0
+$#d00d:49.b 0
+$#d00e.b 0
+$#d00f:4b.b 0
+$#d010.b 0
+$#d011:4b.b 0
+$#d012.b 0
+$#d013:4c.b 0
+$#d014.b 0
+$#d015:4d.b 0
+$#d016:4d.b 0
+$#d017:1e.b 0
+$#d018:4e.b 0
+$#d019:8.b 0
+$#d01a:1f.b 0
+$#d070:4f.d 0
+$#cf9b:1.5 0
+$#d077:1.17 0
+$#d077:1.5 0
+$#d077:1.18 0
+$#cfa1:1.7.cd11.ce8e.cf76.d071.d075 0
+$#d038.c 0
+$#d03a.b 0
+$#d03b:1.b 0
+$#d038.d 0
+$#d03c.b 0
+$#d03d:2.b 0
+$#d03e:1.b 0
+$#d03f.b 0
+$#d040:2.b 0
+$#d041:3.b 0
+$#d042:2.b 0
+$#d043:3.b 0
+$#d044.b 0
+$#d045:1.b 0
+$#d046:55.b 0
+$#d045:3.b.ceb4.ceba.cf75 0
+$#d047:55.b 0
+$#d048.b 0
+$#d049:1.b 0
+$#d04a:2.b 0
+$#d04b:1.b 0
+$#d04c:5d.b 0
+$#d04d:3.b 0
+$#cffe:56.b.c98a.cb4e.cc35.ce3e.cf11 0
+$#d04e:1.b 0
+$#d02b.b 0
+$#d026:47.b 0
+$#d04f:48.b 0
+$#d01e:48.b 0
+$#d025:1d.b 0
+$#d01f:8.b 0
+$#d020:46.b 0
+$#d021:53.b 0
+$#cff8:52.b 0
+$#d01d:51.b 0
+$#d01c:50.b 0
+$#d022.b 0
+$#cff6:50.b 0
+$#d01b:20.b 0
+$#cff7:51.b 0
+$#cff9:53.b 0
+$#cffa:46.b 0
+$#cffb:47.b 0
+$#cffc:1.b 0
+$#cffd:1.b 0
+$#cffe:58.b 0
+$#cfff:59.b 0
+$#cfff:4c.b.c98a.cb4e.cc35.ce3e.cf12 0
+$#cfff:4d.b.c98a.cb4e.cc35.ce3e.cf12 0
+$#cfff:4e.c.c98a.cb4e.cc35.ce3e.cf12 0
+$#d074:1.12.d08e 0
+$#d039:1.b 0
+$#d036.d 0
+$#d036.c 0
+$#d053:1.b 0
+$#d050:1.b 0
+$#d02e:1.b 0
+$#d031:1.b 0
+$#d033:1.b 0
+$#d035:1.b 0
+$#d037:1.b 0
+$#d054.b 0
+$#d052.b 0
+$#d051.b 0
+$#d02a:1.b 0
+$#d027:1.b 0
+$#d028:1.b 0
+$#d029:1.b 0
+$#d024:1c.b 0
+$#d023:1b.b 0
+$#d02c.b 0
+$#d02d.b 0
+$#d02f.b 0
+$#d030.b 0
+$#d032.b 0
+$#d034.b 0
+
+Face
+
+ChildCount 0
+
+NameCount 44
+0
+$#d071:10.f.cd11.ce8e.cf76 0
+$#d056:49.e 0
+$#d058:a.e 0
+$#d059:4b.e 0
+$#d05a:4c.e 0
+$#d05b:4d.e 0
+$#d05c:4e.e 0
+$#d078:4f.f 0
+$#cfa1:1.8 0
+$#d074:1.13.cf9f 0
+$#d065:50.f.c98a.c98f.cb73.cc6b.ce80.cf6f 0
+$#d065:51.e.cb73.cc6b.ce80.cf6f 0
+$#d065:52.e.c98a.c98f.cb73.cc6b.ce80.cf6f 0
+$#d065:53.e.ce80.cf6f 0
+$#d066:f.e 0
+$#d067:55.e 0
+$#d069:1.e 0
+$#d06b:10.e 0
+$#d069:3.e.ceb4.ceba 0
+$#d06d:10.e 0
+$#d06e:48.e 0
+$#d058:8.e.cace.cadb.cc66.ce7c.cf5e 0
+$#d058:b.e.cc66.ce7c.cf5e 0
+$#d05d:50.e 0
+$#d071:10.10.cd11.ce8e.cf76 0
+$#d065:4f.f.c98a.c98f.cb73.cc6b.ce80.cf6f 0
+$#d074:1.8.cf9f 0
+$#d066:d.e.cace.cadb.cc6d.ce81.cf70 0
+$#d066:e.e.cace.cadb.cc6d.ce81.cf70 0
+$#d064:56.e.c98a.c98f.cb73.cc6b.ce80.cf6e 0
+$#d06f:1.e 0
+$#d062:1.e 0
+$#d061:47.e 0
+$#d060:46.e 0
+$#d05f:53.e 0
+$#d05e:51.e 0
+$#d063:1.e 0
+$#d064:58.e 0
+$#d065:59.e 0
+$#d065:4c.e.c98f.cb73.cc6b.ce80.cf6f 0
+$#d065:4d.e.c98a.c98f.cb73.cc6b.ce80.cf6f 0
+$#d065:4e.f.c98a.c98f.cb73.cc6b.ce80.cf6f 0
+$#d064:57.e.c98a.c98f.cb73.cc6b.ce80.cf6e 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 79
+0
+$#cfa5.9 0
+$#cfa7.9 0
+$#cfa8.9 0
+$#cfa9.9 0
+$#cfaa.9 0
+$#cfab.9 0
+$#cfac.9 0
+$#cf9d.6 0
+$#d07e.6 0
+$#cfbb.a 0
+$#cfbc.9 0
+$#cfbd.9 0
+$#cfbe.9 0
+$#cfbf.9 0
+$#cfc0.9 0
+$#cfc1.9 0
+$#cfc2:1.9 0
+$#cfc3.9 0
+$#cfc4:3.9 0
+$#cfc5.9 0
+$#cfc6.9 0
+$#cfc7.9 0
+$#cfc8.9 0
+$#cfc9.9 0
+$#cfca.9 0
+$#cfcb.9 0
+$#cfcc.9 0
+$#cfcd.9 0
+$#cfce.9 0
+$#cfcf.9 0
+$#cfad.9 0
+$#cf9b:1.4.cf06.d070.d07c 0
+$#d077:1.15.cf48.d038.d08f 0
+$#d077:1.14.cf46.d036.d090 0
+$#d077:1.16.cd11.ce8e.cf76.d071.d07b 0
+$#cfe0.9 0
+$#cfdf.9 0
+$#cfe1.9 0
+$#cfe2.9 0
+$#cfe3.9 0
+$#cfe4.9 0
+$#cfe5.9 0
+$#cfe6:1.9 0
+$#cfe7:3.9 0
+$#cfe8:3.9 0
+$#cfe9.9 0
+$#cfea.9 0
+$#cfeb.9 0
+$#cfec.9 0
+$#cfd8.9 0
+$#cfd5.9 0
+$#cfd4.9 0
+$#cfd1.9 0
+$#cfd2.9 0
+$#cfd3.9 0
+$#cfb0.9 0
+$#cfaf.9 0
+$#cfd0.9 0
+$#cfae.9 0
+$#cfb1.9 0
+$#cfb2.9 0
+$#cfb3:1.9 0
+$#cfb4:1.9 0
+$#cfb5.9 0
+$#cfb6.9 0
+$#cfb7.9 0
+$#cfb8.9 0
+$#cfb9.9 0
+$#cfba.a 0
+$#cfde.9 0
+$#cfed.9 0
+$#cfda.9 0
+$#cfd9.9 0
+$#cfdb.9 0
+$#cfdc.9 0
+$#cfdd.9 0
+$#cfd7:1.9 0
+$#cfd6:1.9 0
+
+EndMap
